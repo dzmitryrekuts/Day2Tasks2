@@ -1,0 +1,13 @@
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\bin\Debug\EuclidAlgoLogik.Tests.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\bin\Debug\EuclidAlgoLogik.Tests.pdb
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\bin\Debug\EuclidAlgoLogik.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\bin\Debug\nunit.core.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\bin\Debug\nunit.core.interfaces.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\bin\Debug\nunit.framework.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\bin\Debug\nunit.util.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\bin\Debug\EuclidAlgoLogik.pdb
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\bin\Debug\nunit.framework.xml
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\obj\Debug\EuclidAlgoLogik.Tests.csprojResolveAssemblyReference.cache
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\obj\Debug\EuclidAlgoLogik.Tests.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik.Tests\obj\Debug\EuclidAlgoLogik.Tests.pdb

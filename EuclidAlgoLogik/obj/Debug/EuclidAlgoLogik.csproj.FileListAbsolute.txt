@@ -1,0 +1,5 @@
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik\bin\Debug\EuclidAlgoLogik.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik\bin\Debug\EuclidAlgoLogik.pdb
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik\obj\Debug\EuclidAlgoLogik.csprojResolveAssemblyReference.cache
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik\obj\Debug\EuclidAlgoLogik.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day2SolutionEuclidAlgo\EuclidAlgoLogik\obj\Debug\EuclidAlgoLogik.pdb
